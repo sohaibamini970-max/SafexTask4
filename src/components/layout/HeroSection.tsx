@@ -84,7 +84,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
               {/* Image Frame with CSS Fallback */}
               <div className="relative aspect-16/10 overflow-hidden bg-stone-900 border border-[var(--border-hairline)]">
                 <img
-                  src="/src/assets/images/press_letterpress_hero_1791462968019.jpg"
+                  src="/images/press_letterpress_hero_1791462968019.jpg"
                   alt="Heidelberg cylinder printing press and handset lead typography typeset in a chase"
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
                   referrerPolicy="no-referrer"
